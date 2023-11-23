@@ -6,6 +6,7 @@
 <p>Projekt CalendarCrafter to prosta aplikacja umożliwiająca użytkownikom pobieranie i zapisywanie danych dotyczących świąt publicznych dla wybranego kraju i roku. Aplikacja została zbudowana przy użyciu języka Python oraz biblioteki Tkinter do interfejsu graficznego użytkownika.</p>
 
 ![image](https://github.com/kasiaPesik/CalendarCrafter/assets/127053233/92d606ef-a0c3-48d4-bc9a-00dd7410c606)
+![image](https://github.com/kasiaPesik/CalendarCrafter/assets/127053233/01325432-7956-4182-82e0-6f7322a1b61f)
 
 
 <h3>How to Use / Jak korzystać:</h3>
