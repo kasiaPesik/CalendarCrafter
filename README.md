@@ -67,11 +67,5 @@ Plik wynikowy jest zapisywany w folderze "Output" z formatem nazwy pliku: <code>
 <p>The application's appearance is customized using the customtkinter library, with a white theme and blue color accents.
 Wygląd aplikacji został dostosowany przy użyciu biblioteki customtkinter, z białym motywem i akcentami koloru niebieskiego.</p>
 
-<h3>Author / Autor:</h3>
-<p>[Your Name or Username]</p>
-
-<h3>Date / Data:</h3>
-<p>[Date of Documentation Creation]</p>
-
 </body>
 </html>
