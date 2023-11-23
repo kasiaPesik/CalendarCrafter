@@ -1,33 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CalendarCrafter Documentation</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            margin: 20px;
-        }
-        h2 {
-            color: #4CAF50;
-        }
-        h3 {
-            color: #333;
-        }
-        p {
-            line-height: 1.5;
-        }
-        code {
-            background-color: #f0f0f0;
-            padding: 2px 6px;
-            border-radius: 4px;
-        }
-    </style>
-</head>
-<body>
-
 <h2>Project Name / Nazwa Projektu: CalendarCrafter</h2>
 
 <h3>Description / Opis:</h3>
